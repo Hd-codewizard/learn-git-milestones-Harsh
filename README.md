@@ -397,7 +397,7 @@ Row | Item | Description | Completed
 13 | 10a | What is in Owen's dev branch? | It is a music video from Rick Astley.
 14 | 10b | Link to your new branch on github.com | https://github.com/Hd-codewizard/learn-git-milestones-Harsh/tree/harsh-changes 
 15 | 10c | Link to your network graph | https://github.com/Hd-codewizard/learn-git-milestones-Harsh/network 
-16 | 10d | Link to the PR you made on a partner's github.com repo | 
+16 | 10d | Link to the PR you made on a partner's github.com repo | https://github.com/N-Pacis/first-website/pull/1
 
 
 
